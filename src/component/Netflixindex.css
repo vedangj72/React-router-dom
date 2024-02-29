@@ -1,0 +1,21 @@
+.container-fluid {
+    background-image: url('./Netflixbg.png');
+    /* background-attachment: fixed; */
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+    height: 100vmax;
+    width: 100vmax;
+    color: rgb(249, 248, 248);
+    /* background-position: fixed; */
+}
+
+.box {
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 100vmax;
+    width: 100vmax;
+}
+
+section {
+    height: 400px;
+    /* width: 400px; */
+}
